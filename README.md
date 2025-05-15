@@ -6,7 +6,7 @@ Et simpelt Python-script, der kombinerer musiktrends med AI-genereret tekst til 
 
 - `main.py` – Hovedfilen. Kør denne for at hente trends og generere opslag.
 
-## ⚙️ Krav
+## Krav
 
 - Python 3.8+
 - Følgende Python-pakker:
